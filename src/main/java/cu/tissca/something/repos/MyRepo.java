@@ -1,4 +1,4 @@
-package cu.tissca.something;
+package cu.tissca.something.repos;
 
 public class MyRepo {
     public void foo() {
